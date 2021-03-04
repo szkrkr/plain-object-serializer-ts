@@ -1,2 +1,2 @@
-# plain-object-serializer-ts
-make class instance plain object on typescript
+# serializable-type-to-plain-object
+It helps to make class instance to plain object.
