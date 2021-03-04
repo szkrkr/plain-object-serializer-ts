@@ -1,4 +1,4 @@
-import { Serializable, ISerializable } from "plain-object-serializer-ts/dist"
+import { Serializable, ISerializable } from "plain-object-serializer-ts";
 import IAddress from "./IAddress";
 import IMember from "./IMember";
 

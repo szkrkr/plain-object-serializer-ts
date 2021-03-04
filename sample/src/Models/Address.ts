@@ -1,4 +1,4 @@
-import  { Serializable } from "plain-object-serializer-ts/dist";
+import  { Serializable } from "plain-object-serializer-ts";
 import IAddress from "./IAddress";
 
 class AddressExtendingSerializable extends Serializable<IAddress> implements IAddress {

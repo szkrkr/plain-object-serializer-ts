@@ -1,4 +1,4 @@
-import serializeToPlainObject from 'plain-object-serializer-ts/dist';
+import { serializeToPlainObject } from 'plain-object-serializer-ts';
 import Address from './Models/Address';
 import Member from './Models/Member';
 
