@@ -15,7 +15,7 @@
     "typescript": "^4.2.2"
   },
   "dependencies": {
-    "plain-object-serializer-ts": "git+ssh://git@github.com:szkrkr/plain-object-serializer-ts.git"
+    "plain-object-serializer-ts": "git@github.com:szkrkr/plain-object-serializer-ts.git"
   },
   "private": true
 }
